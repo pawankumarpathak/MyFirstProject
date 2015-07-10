@@ -15,3 +15,5 @@ Select * from  Person where LastName in ('Gupta','Sharma', 'Advani', 'panday','A
 Select * from  Person where LastName like 'a%' and FirstName like 'a%'
 Select * from  Person  where LastName NOT LIKE 'j%'
 Select * from  Person  where FirstName like 'A%' and LastName NOT LIKE 'A%'
+
+
